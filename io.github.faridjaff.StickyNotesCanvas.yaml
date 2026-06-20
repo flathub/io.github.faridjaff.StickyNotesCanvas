@@ -54,8 +54,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/faridjaff/StickyNotesCanvas
-        tag: v1.7.0
-        commit: 5d640dcfada1b86c2e7f74e11ebd019ef4ae0152
+        tag: v1.7.1
+        commit: f33c25d890a28fb2859a53c14cc3650e8a15e294
 
       - type: file
         url: https://github.com/electron/electron/releases/download/v32.3.3/electron-v32.3.3-linux-x64.zip
